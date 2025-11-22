@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #h1{
     color: pink;
 }
@@ -37,35 +37,8 @@
     border: none;
     text-align: center;
     display: block;
-    margin: 0 auto;
-=======
-#h1{
-    color: pink;
-}
+    margin: 0 auto;}
 
-#hero-main-herologo-image{
-    width: 250px;
-    height: auto;
-    display: block;
-    margin: 0 auto;
-    padding-top: 70px;
-    padding-bottom: 50px;
-}
-
-#hero-main-addCart{
-    margin-top: 30px;
-}
-
-#hero-main-addCart-submit-button{
-    font-size: 100%;
-    color: rgb(230, 227, 227); 
-    width: 200px;
-    height: 30px;
-    border-radius: 5px;
-    background-color: #F98080;
-    border: none;
-    margin-left: 43%;
-}
 
 #hero-main-addCart-input-button{
     font-size: 100%;
@@ -78,5 +51,4 @@
     text-align: center;
     display: block;
     margin: 0 auto;
->>>>>>> cfd8c38 (upload new changes and fix some bugs)
 }
