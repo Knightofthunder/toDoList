@@ -23,17 +23,10 @@
 <body>
     <div id="login-div">
           <h3>Login Credentials</h3>
-          <input type="text" placeholder="Put your email">
+          <input type="text" placeholder="Put your email" id="login-input">
           <br><br>
           <button type="submit" id="login-div-submit">Submit</button>
     </div>
-    <script type="module">
-        const submitButton = document.getElementById("login-div-submit");
-        submitButton.addEventListener("click", function clickEvent(e) {
-              e.preventDefault();
-              console.log('Submit button clicked');
-              location.assign('/todo.html');
-        });
-    </script>
+   <script src="main.js" type="module"></script>
 </body>
 </html>
